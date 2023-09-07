@@ -6,6 +6,6 @@
        - [第4节：JVM的生命周期](/md/idea-plugin/2023-09-07-JVM的生命周期.md)
        - [第5节：类加载器与类的加载过程](/md/idea-plugin/2023-09-07-类加载器与类的加载过程.md)
        - [第6节：JVM的整体结构](/md/idea-plugin/2023-09-07-JVM的整体结构.md)
-   -第2章：
+   - 第2章：
        - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
        - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
