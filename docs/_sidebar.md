@@ -1,5 +1,5 @@
 - :memo: 目录
-   - 第1章：java基础
+   - 第1章：jvm
        - [第1节：虚拟机与Java虚拟机](/md/idea-plugin/2023-09-07-虚拟机与Java虚拟机.md)
        - [第2节：JVM的整体结构](/md/idea-plugin/2023-09-07-JVM的整体结构.md)
        - [第3节：JVM的架构模型](/md/idea-plugin/2023-09-07-JVM的架构模型.md)
