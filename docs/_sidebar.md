@@ -10,7 +10,7 @@
        - [第8节：程序计数器](/md/idea-plugin/2023-09-21-程序计数器.md)
        - [第9节：虚拟机栈](/md/idea-plugin/2023-09-21-虚拟机栈.md)
    - 第2章：数据结构和算法
-       - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
+       - [第1节：HashMap](/md/idea-plugin/2023-09-21-HashMap.md)
        - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
    - 第3章：锁相关知识
        - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
